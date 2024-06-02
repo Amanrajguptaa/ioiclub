@@ -40,7 +40,7 @@ function TechClub() {
 
 </div>
  
-    <div className='flex flex-wrap items-center justify-around gap-5 my-20'>
+    <div className='flex flex-wrap items-center justify-center gap-2 my-20'>
 
     <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-80">
         <img src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717250881/toshjmosh_a_stunning_3D_cartoon_illustration_of_a_male_student__25db8c50-fd24-437a-8a50-39195302f967_1_qz0mo7.png" alt="Profile Picture" class="w-24 h-24 rounded-full object-cover"/>
