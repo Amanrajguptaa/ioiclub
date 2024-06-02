@@ -22,8 +22,8 @@ function Clubs() {
          <div className='flex flex-wrap my-10 mx-3 gap-2'>
          
          <Link to='/clubs/techclub'>
-         <div class="relative w-64 h-64 bg-yellow-300 rounded-full">
-          <img class="relative w-64 h-64 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717346981/events/tech_1_igjjlo.jpg" alt="" />
+         <div class="relative w-60 h-60 bg-yellow-300 rounded-full">
+          <img class="relative w-60 h-60 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717346981/events/tech_1_igjjlo.jpg" alt="" />
           <div className='gap-2 flex flex-col items-center justify-center absolute inset-0'>
           <h1 className='text-white font-playfair text-2xl'>Tech Club</h1>
           <p className='text-white font-playfair text-xl'>Visit Here</p>
@@ -32,8 +32,8 @@ function Clubs() {
          </Link>
          
          <Link to='/clubs/sportsclub'>
-          <div class="relative w-64 h-64 bg-yellow-300 rounded-full">
-          <img class="relative w-64 h-64 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717348558/events/download_1_aowp33.png" alt="" />
+          <div class="relative w-60 h-60 bg-yellow-300 rounded-full">
+          <img class="relative w-60 h-60 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717348558/events/download_1_aowp33.png" alt="" />
           <div className='gap-2 flex flex-col items-center justify-center absolute inset-0'>
           <h1 className='text-white font-playfair text-2xl'>Sports Club</h1>
           <p className='text-white font-playfair text-xl'>Visit Here</p>
@@ -42,8 +42,8 @@ function Clubs() {
           </Link>
 
           <Link to='/clubs/culturalclub'>
-          <div class="relative w-64 h-64 bg-yellow-300 rounded-full">
-          <img class="relative w-64 h-64 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717339742/e5ccec4a-40e3-448d-8003-f469eb197bf2_nknoir.webp" alt="" />
+          <div class="relative w-60 h-60 bg-yellow-300 rounded-full">
+          <img class="relative w-60 h-60 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717339742/e5ccec4a-40e3-448d-8003-f469eb197bf2_nknoir.webp" alt="" />
           <div className='gap-2 flex flex-col items-center justify-center absolute inset-0'>
           <h1 className='text-white font-playfair text-2xl'>Cultural Club</h1>
           <p className='text-white font-playfair text-xl'>Visit Here</p>
@@ -52,8 +52,8 @@ function Clubs() {
           </Link>
 
           <Link to='/clubs/socialclub'>
-          <div class="relative w-64 h-64 bg-yellow-300 rounded-full">
-          <img class="relative w-64 h-64 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717340212/images_2_tgtzau.jpg" alt="" />
+          <div class="relative w-60 h-60 bg-yellow-300 rounded-full">
+          <img class="relative w-60 h-60 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717340212/images_2_tgtzau.jpg" alt="" />
           <div className='gap-2 flex flex-col items-center justify-center absolute inset-0'>
           <h1 className='text-white font-playfair text-2xl'>Social Club</h1>
           <p className='text-white font-playfair text-xl'>Visit Here</p>
@@ -62,8 +62,8 @@ function Clubs() {
           </Link>
           
           <Link to='/clubs/bussinessclub'>
-          <div class="relative w-64 h-64 bg-yellow-300 rounded-full">
-          <img class="relative w-64 h-64 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717340603/images_4_bfevws.jpg" alt="" />
+          <div class="relative w-60 h-60 bg-yellow-300 rounded-full">
+          <img class="relative w-60 h-60 bg-yellow-300 rounded-full" src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717340603/images_4_bfevws.jpg" alt="" />
           <div className='gap-2 flex flex-col items-center justify-center absolute inset-0'>
           <h1 className='text-white font-playfair text-2xl'>Business Club</h1>
           <p className='text-white font-playfair text-xl'>Visit Here</p>
