@@ -21,7 +21,7 @@ function TechClub() {
 <div className='my-20 flex-col gap-5'>
     <div className='mb-10'><h1 className='text-center text-6xl font-playfair'>TEAM COORDINATERS</h1></div>
 
-<div className='flex justify-center items-center'>
+<div className='flex justify-around items-center'>
 <div class="bg-black border border-white text-white p-6 rounded-lg shadow-lg flex items-center space-x-6">
         <img src="https://media.licdn.com/dms/image/D5603AQGMarAsv8QiCQ/profile-displayphoto-shrink_400_400/0/1701102409121?e=1722470400&v=beta&t=-v8X8Fb1nQt2smLq_E8U2RMo1vAyEOUsI7LWt2GPnT8" alt="Profile Picture" class="w-24 h-24 rounded-full object-cover"/>
         <div>
