@@ -18,7 +18,7 @@ function TechClub() {
             </div>
         </div>
 
-<div className='my-20 flex-col gap-10'>
+<div className='my-20 flex-col gap-5'>
     <div className='mb-10'><h1 className='text-center text-6xl font-playfair'>TEAM COORDINATERS</h1></div>
 
 <div className='flex justify-center items-center'>
