@@ -41,9 +41,9 @@ function SportsClub() {
 
 </div>
  
-    <div className='flex flex-wrap items-center justify-center gap-5 my-20'>
+    <div className='flex flex-wrap items-center justify-center gap-2 my-20'>
 
-    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-80">
+    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-72">
         <img src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717250881/toshjmosh_a_stunning_3D_cartoon_illustration_of_a_male_student__25db8c50-fd24-437a-8a50-39195302f967_1_qz0mo7.png" alt="Profile Picture" class="w-24 h-24 rounded-full object-cover"/>
         <div>
             <h2 class="text-xl font-bold">Navneet</h2>
@@ -59,7 +59,7 @@ function SportsClub() {
         </div>
     </div>
 
-    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-80">
+    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-72">
         <img src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717250881/toshjmosh_a_stunning_3D_cartoon_illustration_of_a_male_student__25db8c50-fd24-437a-8a50-39195302f967_1_qz0mo7.png" alt="Profile Picture" class="w-24 h-24 rounded-full object-cover"/>
         <div>
             <h2 class="text-xl font-bold">Nitesh</h2>
@@ -75,7 +75,7 @@ function SportsClub() {
         </div>
     </div>
 
-    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-80">
+    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-72">
         <img src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717250878/toshjmosh_a_stunning_3D_cartoon_illustration_of_kinder_teacher__a97f67b1-a70a-478a-835d-cec09220f5ed_l7lv8i.png" alt="Profile Picture" class="w-24 h-24 rounded-full object-cover"/>
         <div>
             <h2 class="text-xl font-bold">Samriddhi</h2>
@@ -91,7 +91,7 @@ function SportsClub() {
         </div>
     </div>
 
-    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-80">
+    <div class="bg-black text-white border border-white p-6 rounded-lg shadow-lg flex-col items-center w-72">
     <img src="https://res.cloudinary.com/dkqbawsqm/image/upload/v1717250878/toshjmosh_a_stunning_3D_cartoon_illustration_of_kinder_teacher__a97f67b1-a70a-478a-835d-cec09220f5ed_l7lv8i.png" alt="Profile Picture" class="w-24 h-24 rounded-full object-cover"/>
         <div className='flex-col flex-wrap'>
             <h2 class="text-xl font-bold">Mansi</h2>
