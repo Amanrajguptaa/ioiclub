@@ -19,7 +19,7 @@ function Clubs() {
 
          </div>
 
-         <div className='flex flex-wrap my-10 mx-5 gap-5'>
+         <div className='flex flex-wrap my-10 mx-3 gap-3'>
          
          <Link to='/clubs/techclub'>
          <div class="relative w-64 h-64 bg-yellow-300 rounded-full">
