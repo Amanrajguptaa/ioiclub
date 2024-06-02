@@ -29,7 +29,7 @@ function Workshops() {
     <div className='my-10  md:my-24 absolute top-0 justify-center'>
      <h1 className='text-3xl md:text-6xl font-playfair text-white text-center md:font-bold'>UPCOMING WORKSHOPS</h1>
     
-   <div className='m-5 md:m-16 flex justify-center items-center flex-wrap gap-16' >
+   <div className='m-5 md:m-10 flex justify-center items-center flex-wrap gap-16' >
            
    <div class="w-[350px] overflow-hidden bg-white rounded-lg shadow-lg">
     <img class="w-full h-64 object-cover object-center" src="https://res.cloudinary.com/dwwd1oncs/image/upload/v1716995088/0_0_2_j7hltw.webp" alt="Card image"/>
