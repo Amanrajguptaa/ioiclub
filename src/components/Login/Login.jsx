@@ -8,7 +8,7 @@ function Login() {
          <img className='max-h-screen w-full' src="https://res.cloudinary.com/dwwd1oncs/image/upload/v1717183800/Register_hydgph.png" alt="" srcset="" />
          </div>
 
-         <div className='absolute inset-0 top-1/4 m-20 flex items-center justify-center '>
+         <div className='absolute inset-0 top-1/4 m-16 flex items-center justify-center '>
 
           
             <div className=' '>
